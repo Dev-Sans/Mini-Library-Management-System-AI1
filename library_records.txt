@@ -1,0 +1,12 @@
+BOOK RECORDS
+100123: ['Frankenstein', 'Mary Shelley', 'Available']
+100234: ["A Room of One's Own", 'Virginia Woolf', 'Available']
+100345: ['Animal Farm', 'George Orwell', 'Not available']
+100456: ['One Piece Volume 1: Romance Dawn', 'Eiichiro Oda', 'Available']
+100567: ['The Alchemist', 'Paulo Coelho', 'Available']
+100678: ['The Picture of Dorian Gray', 'Oscar Wilde', 'Available']
+
+BORROWING RECORDS
+100456: ['90456', '2026-04-16', '2026-05-01', '2026-04-28']
+100123: ['90123', '2026-03-15', '2026-04-01', '2026-06-12']
+100345: ['90345', '2026-01-01', '2026-01-17', None]
